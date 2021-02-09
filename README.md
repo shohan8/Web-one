@@ -1,2 +1,2 @@
 # Web-one
-Web One priject
+Web One project
